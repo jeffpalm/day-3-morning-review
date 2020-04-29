@@ -4,9 +4,27 @@
 
 h1 {
     color: chartreuse;
+    margin: 60px;
 }
 
 .greeting {
     color: green;
 }
 
+#insane-breakfast {
+    font-size: 14px;
+}
+
+body li {
+    color: blueviolet;
+}
+
+.text-box {
+    text-align: center;
+}
+
+.box {
+    height: 70px;
+    width: 70px;
+    background-color: cadetblue;
+}
